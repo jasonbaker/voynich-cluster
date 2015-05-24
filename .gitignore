@@ -3,3 +3,5 @@ include
 lib
 man
 *.pyc
+pip-selfcheck.json
+pyvenv.cfg
